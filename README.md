@@ -5,8 +5,8 @@ CLion, the Integrated Development Environment (IDE) we use for
 this class, and the workflow using Git and GitHub.
 
 The first thing you will need to do is accept the invitation to this assignment
-from GitHub Classroom. You can click [here](https://classroom.github.com/a/Qxkh__cV) to accept the invitatiion, and then
-follow the instructions [here](https://github.com/vc-csv13-spring2019/Course-Information/wiki)
+from GitHub Classroom. You can click [here](https://classroom.github.com/a/NMZFPaT_) to accept the invitatiion, and then
+follow the instructions [here](https://github.com/vc-csv30-spring2019/Course-Information/wiki)
 to get started. 
 
 Be sure that you accept the invitation first and use the URL from
@@ -116,4 +116,4 @@ Finally, right click on the project name, then select `Git -> Repository -> Push
 and press **OK**. This step will then submit them to the cloud to have the tests run for grading.
 
 If you do not understand these directions, or wish to do them on the command
-line rather than in CLion, then read these [directions](https://github.com/vc-csv13-spring2019/Course-Information/wiki/How-to-Turn-In-Every-Project).
+line rather than in CLion, then read these [directions](https://github.com/vc-csv30-spring2019/Course-Information/wiki/How-to-Turn-In-Every-Project).
