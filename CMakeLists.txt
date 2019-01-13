@@ -8,7 +8,7 @@ set(EXEC_NAME "HelloWorld")
 set(CMAKE_CXX_STANDARD 11)
 
 if(EXISTS ${CMAKE_HOME_DIRECTORY}/csv30-lib/CMakeLists.txt)
-    include(csv13-lib/CMakeLists.txt)
+    include(csv30-lib/CMakeLists.txt)
 else()
     add_custom_target(submodule-init ALL git submodule init COMMAND git submodule update --recursive WORKING_DIRECTORY ${CMAKE_SOURCE_DIR})
 endif()
