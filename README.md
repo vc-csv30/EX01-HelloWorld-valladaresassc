@@ -39,7 +39,7 @@ contents that may already be in the `main.cc` file.
 
 ```cpp
 /**
- * CS V13 Object-Oriented Programming
+ * CS V30 Beginning C++
  * Assignment: EX01-HelloWorld
  *
  * Statement of code ownership: I hereby state that I have written all of this
@@ -49,7 +49,7 @@ contents that may already be in the `main.cc` file.
  */
  
 #include <iostream>
-#include <csv13>
+#include <csv30>
 
 int main(int argc, char *argv[]) {
     std::cout << "Hello, World!" << std::endl;
