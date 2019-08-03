@@ -1,3 +1,11 @@
+cmake-build-debug
+csv30-lib
+CMakeLists.txt
+README.md
+src/*_unittest.cc
+!.idea/runConfigurations
+.idea
+
 # Prerequisites
 *.d
 
